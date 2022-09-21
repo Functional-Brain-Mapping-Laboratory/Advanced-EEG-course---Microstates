@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Functional-Brain-Mapping-Laboratory/Advanced-EEG-course---Microstates/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Functional-Brain-Mapping-Laboratory/Advanced-EEG-course---Microstates.git/main)
 
 # Pycrostates
 
