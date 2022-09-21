@@ -1,0 +1,8 @@
+notebook
+mne
+pycrostates
+matplotlib
+mne-qt-browser
+PyQt5
+pandas
+pymatreader
